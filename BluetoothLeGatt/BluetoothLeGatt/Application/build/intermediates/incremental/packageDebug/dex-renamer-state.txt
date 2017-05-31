@@ -1,0 +1,7 @@
+#Tue May 30 15:43:32 IST 2017
+base.0=C\:\\Users\\DDominic\\Downloads\\BluetoothLeGatt\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fa283462b8aff4286a6cdbff1c72cc538e44f94
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\DDominic\\Downloads\\BluetoothLeGatt\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31f6dc574dc4f23278cfe4229043ca96d051981a\\classes.dex
+base.1=C\:\\Users\\DDominic\\Downloads\\BluetoothLeGatt\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31f6dc574dc4f23278cfe4229043ca96d051981a
+file.0=C\:\\Users\\DDominic\\Downloads\\BluetoothLeGatt\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fa283462b8aff4286a6cdbff1c72cc538e44f94\\classes.dex
